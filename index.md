@@ -1,4 +1,4 @@
-## Portfolio
+## Data science and machine leanring projects
 
 ---
 
@@ -11,8 +11,14 @@ Hate speech detection is the automated task of determining whether a piece of te
 [View code on Colab](https://colab.research.google.com/drive/1pbPH_qMmtkPhsSaKDII-JMvUhtIRFDNI?usp=sharing)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### NLP tweet sentiment analysis data pipline 
+
+Slackbot that reposts tweets about the All Blacks (NZ Rugby) from twitter and analyses and labels the sentiment using MongoDB to interact with the Twitter API and a PostgreSQL database, all inside a Docker container
+
+![image](https://user-images.githubusercontent.com/105222741/216148400-a96b278a-2a97-4796-b58c-cb05f5ae8d85.png)
+
+[View code on Github](https://github.com/Nathan-Austin/twitter_slackbot_with-sentiment_analysis)
 
 ---
 [Project 3 Title](http://example.com/)
