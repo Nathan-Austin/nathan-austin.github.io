@@ -6,7 +6,7 @@
 
 Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) 
 
 [View code on Colab](https://colab.research.google.com/drive/1pbPH_qMmtkPhsSaKDII-JMvUhtIRFDNI?usp=sharing)
 
@@ -29,6 +29,18 @@ Machine learning project to compare differnt models for the best price predictio
 ![image](https://user-images.githubusercontent.com/105222741/233102618-d3056715-ee87-4a64-a2fb-1523fbe7011b.png)
 
 [View code on Github](https://github.com/Nathan-Austin/Machine_Learning_projects/tree/main/Car_price_prediction)
+
+### Health Insurance cost calculator with ML comparison
+
+I model the Health Insurance Costs of 1338 Americans with health insurance and used this data to predict the cost for a new client.
+Comparing 7 models, Linear Regression, Lasso, Ridge, XGBoost, Decision Tree, RandomForest and ExtraTree to find the optimial outcome.
+I have also included a GUI interface for users to check their potential cost.
+
+![Age_BMI_distribution](https://user-images.githubusercontent.com/105222741/233109930-0b0e86bc-00a9-41c3-8be3-3a1dc6d56e4d.png)
+
+![image](https://user-images.githubusercontent.com/105222741/233114145-871c9cd7-4982-4d39-88a3-2aebfbe3733c.png)
+
+
 
 
 ---
