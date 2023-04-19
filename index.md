@@ -21,8 +21,15 @@ Slackbot that reposts tweets about the All Blacks (NZ Rugby) from twitter and an
 [View code on Github](https://github.com/Nathan-Austin/twitter_slackbot_with-sentiment_analysis)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### ML second hand car valuation
+
+Machine learning project to compare differnt models for the best price prediction and accuracy for reselling a second hand vechile. Data set uses India market and vechicles and compares Linear Regression, Random Forrest Regressor, Gradient Boosting Regressor, and XG Boost Regressor.
+
+
+![image](https://user-images.githubusercontent.com/105222741/233102618-d3056715-ee87-4a64-a2fb-1523fbe7011b.png)
+
+[View code on Github](https://github.com/Nathan-Austin/Machine_Learning_projects/tree/main/Car_price_prediction)
+
 
 ---
 
